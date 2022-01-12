@@ -1,1 +1,2 @@
-
+config:
+  info: "config的配置信息~"
